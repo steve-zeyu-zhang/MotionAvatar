@@ -31,5 +31,10 @@ serves as a valuable resource for the community._
 ## Citation
 
 ```
-Coming soon
+@article{zhang2024motion,
+  title={Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM},
+  author={Zhang, Zeyu and Liu, Akide and Reid, Ian and Hartley, Richard and Zhuang, Bohan and Tang, Hao},
+  journal={arXiv preprint arXiv:2403.07487},
+  year={2024}
+}
 ```
