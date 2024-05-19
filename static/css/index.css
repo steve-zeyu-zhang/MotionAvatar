@@ -164,7 +164,7 @@ body {
   box-sizing: border-box;
   padding: 10px;
   text-align: center;
-  margin-top: 10px;
+  align-self: flex-start;
 }
 .model-container {
   width: 100%;
