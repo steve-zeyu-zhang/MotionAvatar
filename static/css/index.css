@@ -153,5 +153,28 @@ body {
   padding-bottom: 0;
 }
 
+.level {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+.level-item {
+  flex: 1;
+  max-width: 33%; /* Ensure equal width distribution */
+  box-sizing: border-box;
+  padding: 10px;
+  text-align: center;
+  margin-top: 10px;
+}
+.model-container {
+  width: 100%;
+}
+.caption {
+  margin-top: 10px;
+  word-wrap: break-word;
+  white-space: normal;
+  width: 100%;
+  display: inline-block;
+}
 
 
