@@ -27,6 +27,10 @@ serves as a valuable resource for the community._
 
 ![main](static/images/main-1.svg)
 
+## News
+
+<b>(05/23/2024)</b> &#127881; Our paper has been promoted by <a href="https://twitter.com/ai_bites/status/1792907754727744000"><b>AI Bites</b></a>!
+
 
 ## Citation
 
