@@ -28,7 +28,7 @@ serves as a valuable resource for the community._
 ![main](static/images/main-1.svg)
 
 ## News
-
+<b>(07/19/2024)</b> &#127881; Our paper has been accepted to <a href="https://bmvc2024.org/"><b>BMVC 2024</b></a>!<br>
 <b>(05/23/2024)</b> &#127881; Our paper has been promoted by <a href="https://twitter.com/ai_bites/status/1792907754727744000"><b>AI Bites</b></a>!<br>
 <b>(05/22/2024)</b> &#127881; Our paper has been promoted by <a href="https://www.reddit.com/r/languagemodeldigest/comments/1cxqebo/create_3d_avatars_with_text_prompts_with_this_new/"><b>Language Model Digest</b></a>!<br>
 <b>(05/21/2024)</b> &#127881; Our paper has been promoted by <a href="https://x.com/CSVisionPapers/status/1792975365842817444"><b>CSVisionPapers</b></a>!
