@@ -1,5 +1,5 @@
 <div align="center"><h1> Motion Avatar: Generate Human and Animal Avatars with Arbitrary Motion <br>
-  <!-- <sub><sup><a href="https://miua2024.github.io/">MIUA 2024</a></sup></sub>  -->
+  <sub><sup><a href="https://bmvc2024.org/">BMVC 2024</a></sup></sub> 
 </h1>
 
 [Zeyu Zhang](https://steve-zeyu-zhang.github.io)<sup>\*</sup>, [Yiran Wang](https://github.com/u7079256)<sup>\*</sup>, [Biao Wu](https://scholar.google.com/citations?user=Y3SBBWMAAAAJ&hl=en)<sup>\*</sup>, [Shuo Chen](https://www.linkedin.com/in/shuo-chen-7747a7246/), [Zhiyuan Zhang](https://github.com/Tiooo111), [Shiya Huang](https://github.com/gekelly), [Wenbo Zhang](https://zwbx.github.io/), [Meng Fang](https://mengf1.github.io/), [Ling Chen](https://profiles.uts.edu.au/Ling.Chen), [Yang Zhao](https://yangyangkiki.github.io/)<sup>✉</sup>
