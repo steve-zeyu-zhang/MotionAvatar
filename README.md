@@ -37,7 +37,7 @@ serves as a valuable resource for the community._
 ## Citation
 
 ```
-@article{zhang2024motion,
+@article{zhang2024motionavatar,
   title={Motion Avatar: Generate Human and Animal Avatars with Arbitrary Motion},
   author={Zhang, Zeyu and Wang, Yiran and Wu, Biao and Chen, Shuo and Zhang, Zhiyuan and Huang, Shiya and Zhang, Wenbo and Fang, Meng and Chen, Ling and Zhao, Yang},
   journal={arXiv preprint arXiv:2405.11286},
