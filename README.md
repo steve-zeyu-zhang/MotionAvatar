@@ -27,6 +27,10 @@ serves as a valuable resource for the community._
 
 ![main](static/images/main-1.svg)
 
+> [!NOTE]
+> Part of the code and data are still very useful. However, some parts of the off-the-shelf model are outdated. We suggest replacing them with the latest pretrained model to achieve state-of-the-art performance.
+
+
 ## News
 <b>(07/19/2024)</b> &#127881; Our paper has been accepted to <a href="https://bmvc2024.org/"><b>BMVC 2024</b></a>!<br>
 <b>(05/23/2024)</b> &#127881; Our paper has been promoted by <a href="https://twitter.com/ai_bites/status/1792907754727744000"><b>AI Bites</b></a>!<br>
