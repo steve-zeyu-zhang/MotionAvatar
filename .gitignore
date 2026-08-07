@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Experiment tracking / logs
+wandb/
+slurm-*.out
+*.out
+
+# Data, checkpoints and outputs (download or generate locally)
+dataset/
+checkpoints/
+glove/
+save/
+output/
+render_output/
+*.ckpt
+*.pt
+*.tar

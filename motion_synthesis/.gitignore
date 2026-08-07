@@ -1,0 +1,5 @@
+*.npy
+dataset/*
+save
+__pycache__/
+*.pyc

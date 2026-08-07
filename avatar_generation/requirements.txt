@@ -1,0 +1,17 @@
+# Minimal dependencies for the glue scripts in this directory
+# (SDXL text-to-image via diffusers + PIL mask compositing).
+#
+# The upstream repos you clone alongside them (TripoSR,
+# Grounded-Segment-Anything, and optionally OpenLRM) each ship their own
+# requirements files -- install those separately, see README.md.
+#
+# Versions the authors tested with (Python 3.10, CUDA 11.8):
+#   torch==2.0.1 / torchvision==0.15.2 (cu118 wheels), diffusers==0.27.2,
+#   transformers==4.25.1, accelerate==0.21.0
+torch
+torchvision
+diffusers>=0.27.2
+transformers
+accelerate
+safetensors
+Pillow

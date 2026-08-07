@@ -1,0 +1,879 @@
+Animal,Motion Name,FBX Filename
+Anaconda,AnacondaALL-Attack,AnacondaALL-Attack.bvh
+Anaconda,AnacondaALL-Bite,AnacondaALL-Bite.bvh
+Anaconda,AnacondaALL-Bite,AnacondaALL-Bite2.bvh
+Anaconda,AnacondaALL-Die,AnacondaALL-Die.bvh
+Anaconda,AnacondaALL-Hiss,AnacondaALL-Hiss.bvh
+Anaconda,AnacondaALL-Idle,AnacondaALL-Idle.bvh
+Anaconda,AnacondaALL-Idle,AnacondaALL-Idle2.bvh
+Anaconda,AnacondaALL-Rise,AnacondaALL-Rise.bvh
+Anaconda,AnacondaALL-Rise,AnacondaALL-Rise2.bvh
+Anaconda,AnacondaALL-Run,AnacondaALL-Run.bvh
+Anaconda,AnacondaALL-Sneaky,AnacondaALL-Sneaky.bvh
+Anaconda,AnacondaALL-Spin,AnacondaALL-Spin.bvh
+Anaconda,AnacondaALL-Strike,AnacondaALL-Strike.bvh
+Anaconda,AnacondaALL-Strike,AnacondaALL-Strike2.bvh
+Anaconda,AnacondaALL-StruckDie,AnacondaALL-StruckDie.bvh
+Anaconda,AnacondaALL-Tired,AnacondaALL-Tired.bvh
+Anaconda,AnacondaALL-Twistrattle,AnacondaALL-Twistrattle.bvh
+Anaconda,AnacondaALL-WalkSLow,AnacondaALL-WalkSLow.bvh
+Ant,Ant-Attack,Ant-Attack.bvh
+Ant,Ant-Cleaning,Ant-Cleaning.bvh
+Ant,Ant-Die,Ant-Die.bvh
+Ant,Ant-Die,Ant-Die2.bvh
+Ant,Ant-DieLoop,Ant-DieLoop.bvh
+Ant,Ant-DieUp,Ant-DieUp.bvh
+Ant,Ant-Idle,Ant-Idle.bvh
+Ant,Ant-Idle,Ant-Idle2.bvh
+Ant,Ant-Idle,Ant-Idle3.bvh
+Ant,Ant-JumpForward,Ant-JumpForward.bvh
+Ant,Ant-KnockedBack,Ant-KnockedBack.bvh
+Ant,Ant-March,Ant-March.bvh
+Ant,Ant-Shake,Ant-Shake.bvh
+Ant,Ant-Sting,Ant-Sting.bvh
+Ant,Ant-Sting,Ant-Sting2.bvh
+Ant,Ant-Throw,Ant-Throw.bvh
+Ant,Ant-Walk,Ant-Walk.bvh
+Bat,Bat-AttackBite,Bat-AttackBite.bvh
+Bat,Bat-Float,Bat-Float.bvh
+Bat,Bat-Fly,Bat-Fly.bvh
+Bat,Bat-FlyGlide,Bat-FlyGlide.bvh
+Bat,Bat-FlyLoop,Bat-FlyLoop.bvh
+Bat,Bat-Kick,Bat-Kick.bvh
+Bat,Bat-KnockedBack,Bat-KnockedBack.bvh
+Bat,Bat-Looking,Bat-Looking.bvh
+Bat,Bat-SlowFly,Bat-SlowFly.bvh
+Bat,Bat-Walk,Bat-Walk.bvh
+Bear,BEAR-AngerySwat,BEAR-AngerySwat.bvh
+Bear,BEAR-BackUp,BEAR-BackUp.bvh
+Bear,BEAR-BearRun,BEAR-BearRun.bvh
+Bear,BEAR-Bite,BEAR-Bite.bvh
+Bear,BEAR-CatchFish,BEAR-CatchFish.bvh
+Bear,BEAR-Feast,BEAR-Feast.bvh
+Bear,BEAR-FishBite,BEAR-FishBite.bvh
+Bear,BEAR-GetUp,BEAR-GetUp.bvh
+Bear,BEAR-GroundPaw,BEAR-GroundPaw.bvh
+Bear,BEAR-Growl,BEAR-Growl.bvh
+Bear,BEAR-Idle,BEAR-Idle.bvh
+Bear,BEAR-IdlePant,BEAR-IdlePant.bvh
+Bear,BEAR-JumpBite,BEAR-JumpBite.bvh
+Bear,BEAR-LayDown,BEAR-LayDown.bvh
+Bear,BEAR-RiseRoar,BEAR-RiseRoar.bvh
+Bear,BEAR-RunningBear,BEAR-RunningBear.bvh
+Bear,BEAR-SlowWalk,BEAR-SlowWalk.bvh
+Bear,BEAR-Stalking,BEAR-Stalking.bvh
+Bear,BEAR-Stand,BEAR-Stand.bvh
+Bear,BEAR-SwatLeft,BEAR-SwatLeft.bvh
+Bear,BEAR-SwatRight,BEAR-SwatRight.bvh
+Bear,BEAR-TipLeft,BEAR-TipLeft.bvh
+Bear,BEAR-Trot,BEAR-Trot.bvh
+Bear,BEAR-Trotting,BEAR-Trotting.bvh
+Bear,BEAR-Turn,BEAR-Turn180.bvh
+Bear,BEAR-TurnLeft,BEAR-TurnLeft.bvh
+Bear,BEAR-WakeUp,BEAR-WakeUp.bvh
+Bear,BEAR-WalkForward,BEAR-WalkForward.bvh
+Bear,BEAR-WetShake,BEAR-WetShake.bvh
+Bird,BIRD-Attack,BIRD-Attack.bvh
+Bird,BIRD-Attack,BIRD-Attack2.bvh
+Bird,BIRD-Attack,BIRD-Attack3.bvh
+Bird,BIRD-Attack,BIRD-Attack4.bvh
+Bird,BIRD-CircleLand,BIRD-CircleLand.bvh
+Bird,BIRD-Fallen,BIRD-Fallen.bvh
+Bird,BIRD-Falling,BIRD-Falling.bvh
+Bird,BIRD-Floater,BIRD-Floater.bvh
+Bird,BIRD-FlyFast,BIRD-FlyFast.bvh
+Bird,BIRD-Flying,BIRD-Flying.bvh
+Bird,BIRD-FlyLoop,BIRD-FlyLoop.bvh
+Bird,BIRD-FlySlow,BIRD-FlySlow.bvh
+Bird,BIRD-GroundFlap,BIRD-GroundFlap.bvh
+Bird,BIRD-IdleLoop,BIRD-IdleLoop.bvh
+Bird,BIRD-Lander,BIRD-Lander.bvh
+Bird,BIRD-LookRight,BIRD-LookRight.bvh
+Bird,BIRD-SlowLook,BIRD-SlowLook.bvh
+Bird,BIRD-TakeOff,BIRD-TakeOff.bvh
+Buffalo,Buffalo-AlertIdle,Buffalo-AlertIdle.bvh
+Buffalo,Buffalo-AngryAntlers,Buffalo-AngryAntlers.bvh
+Buffalo,Buffalo-Attack,Buffalo-Attack.bvh
+Buffalo,Buffalo-Attack,Buffalo-Attack1.bvh
+Buffalo,Buffalo-ChargedUp,Buffalo-ChargedUp.bvh
+Buffalo,Buffalo-Cud,Buffalo-Cud.bvh
+Buffalo,Buffalo-Die,Buffalo-Die.bvh
+Buffalo,Buffalo-GetUp,Buffalo-GetUp.bvh
+Buffalo,Buffalo-GroundLoop,Buffalo-GroundLoop.bvh
+Buffalo,Buffalo-HoofScrape,Buffalo-HoofScrape.bvh
+Buffalo,Buffalo-Idle,Buffalo-Idle.bvh
+Buffalo,Buffalo-Jump,Buffalo-Jump.bvh
+Buffalo,Buffalo-LoweredHead,Buffalo-LoweredHead.bvh
+Buffalo,Buffalo-RunLoop,Buffalo-RunLoop.bvh
+Buffalo,Buffalo-Shot,Buffalo-Shot.bvh
+Buffalo,Buffalo-SleepUp,Buffalo-SleepUp.bvh
+Buffalo,Buffalo-WalkLoop,Buffalo-WalkLoop.bvh
+Buzzard,BUZZARD-Attack,BUZZARD-Attack1.bvh
+Buzzard,BUZZARD-Attack,BUZZARD-Attack2.bvh
+Buzzard,BUZZARD-Attack,BUZZARD-Attack3.bvh
+Buzzard,BUZZARD-Die,BUZZARD-Die1.bvh
+Buzzard,BUZZARD-Dying,BUZZARD-Dying.bvh
+Buzzard,BUZZARD-FlyLoop,BUZZARD-FlyLoop.bvh
+Buzzard,BUZZARD-SlowFly,BUZZARD-SlowFly.bvh
+Buzzard,BUZZARD-SlowLoop,BUZZARD-SlowLoop.bvh
+Buzzard,BUZZARD-SlowtoLand,BUZZARD-SlowtoLand.bvh
+Buzzard,BUZZARD-Soaring,BUZZARD-Soaring.bvh
+Camel,Camel-Bite,Camel-Bite.bvh
+Camel,Camel-Buck,Camel-Buck.bvh
+Camel,Camel-DownLoop,Camel-DownLoop.bvh
+Camel,Camel-IdleLoop,Camel-IdleLoop.bvh
+Camel,Camel-LayDown,Camel-LayDown.bvh
+Camel,Camel-Mope,Camel-Mope.bvh
+Camel,Camel-Restless,Camel-Restless.bvh
+Camel,Camel-Run,Camel-Run.bvh
+Camel,Camel-RunFast,Camel-RunFast.bvh
+Camel,Camel-ScrapeHoof,Camel-ScrapeHoof.bvh
+Camel,Camel-SlowWalk,Camel-SlowWalk.bvh
+Camel,Camel-Specail,Camel-Specail.bvh
+Camel,Camel-StandUp,Camel-StandUp.bvh
+Camel,Camel-StopWalk,Camel-StopWalk.bvh
+Camel,Camel-Trot,Camel-Trot.bvh
+Camel,Camel-Wild,Camel-Wild1.bvh
+Camel,Camel-Yell,Camel-Yell.bvh
+Cat,Cat-IdlePurr,Cat-IdlePurr.bvh
+Cat,Cat-LickCleanIdle,Cat-LickCleanIdle.bvh
+Cat,Cat-StretchYawnIdle,Cat-StretchYawnIdle.bvh
+Cat,Cat-Walk,Cat-Walk.bvh
+Centipede,Centipede-Attack,Centipede-Attack.bvh
+Centipede,Centipede-Attack,Centipede-Attack1.bvh
+Centipede,Centipede-Attack,Centipede-Attack2.bvh
+Centipede,Centipede-Die,Centipede-Die.bvh
+Centipede,Centipede-Idle,Centipede-Idle.bvh
+Centipede,Centipede-Idle,Centipede-Idle2.bvh
+Centipede,Centipede-Idle,Centipede-Idle3.bvh
+Centipede,Centipede-Rearing,Centipede-Rearing.bvh
+Centipede,Centipede-Run,Centipede-Run.bvh
+Centipede,Centipede-Walk,Centipede-Walk.bvh
+Chicken,Chicken-EggLaying,Chicken-EggLaying.bvh
+Chicken,Chicken-IdlePecking,Chicken-IdlePecking.bvh
+Chicken,Chicken-Walk,Chicken-Walk.bvh
+Comodoa,ComodoaALL-Attack,ComodoaALL-Attack1.bvh
+Comodoa,ComodoaALL-Attack,ComodoaALL-Attack2.bvh
+Comodoa,ComodoaALL-Attack,ComodoaALL-Attack3.bvh
+Comodoa,ComodoaALL-Die,ComodoaALL-Die.bvh
+Comodoa,ComodoaALL-Idle,ComodoaALL-Idle.bvh
+Comodoa,ComodoaALL-Idle,ComodoaALL-Idle2.bvh
+Comodoa,ComodoaALL-Run,ComodoaALL-Run.bvh
+Comodoa,ComodoaALL-Walk,ComodoaALL-Walk.bvh
+Comodoa,ComodoaALL-Yawn,ComodoaALL-Yawn.bvh
+Coyote,Coyote-Attack,Coyote-Attack1.bvh
+Coyote,Coyote-Attack,Coyote-Attack2.bvh
+Coyote,Coyote-Attack,Coyote-Attack3.bvh
+Coyote,Coyote-Die,Coyote-Die.bvh
+Coyote,Coyote-Howling,Coyote-Howling.bvh
+Coyote,Coyote-Idle,Coyote-Idle.bvh
+Coyote,Coyote-Restless,Coyote-Restless.bvh
+Coyote,Coyote-Running,Coyote-Running.bvh
+Coyote,Coyote-Sniffing,Coyote-Sniffing.bvh
+Coyote,Coyote-Walking,Coyote-Walking.bvh
+Crab,Crab-Attack,Crab-Attack1.bvh
+Crab,Crab-Attack,Crab-Attack2.bvh
+Crab,Crab-Attack,Crab-Attack3.bvh
+Crab,Crab-Attack,Crab-Attack4.bvh
+Crab,Crab-Defeated,Crab-Defeated.bvh
+Crab,Crab-Die,Crab-Die.bvh
+Crab,Crab-Eat,Crab-Eat.bvh
+Crab,Crab-HitBack,Crab-HitBack.bvh
+Crab,Crab-Strafe,Crab-Strafe.bvh
+Crab,Crab-Walk,Crab-Walk.bvh
+Cricket,Cricket-Attack,Cricket-Attack1.bvh
+Cricket,Cricket-Attack,Cricket-Attack2.bvh
+Cricket,Cricket-Attack,Cricket-Attack3.bvh
+Cricket,Cricket-Attack,Cricket-Attack4.bvh
+Cricket,Cricket-Burrough,Cricket-Burrough.bvh
+Cricket,Cricket-Die,Cricket-Die.bvh
+Cricket,Cricket-Idle,Cricket-Idle.bvh
+Cricket,Cricket-IdlePissed,Cricket-IdlePissed.bvh
+Cricket,Cricket-LookAround,Cricket-LookAround.bvh
+Cricket,Cricket-OutOfGround,Cricket-OutOfGround.bvh
+Cricket,Cricket-Running,Cricket-Running.bvh
+Cricket,Cricket-Walking,Cricket-Walking.bvh
+Crocodile,Crocodile-Attack,Crocodile-Attack.bvh
+Crocodile,Crocodile-Bite,Crocodile-Bite.bvh
+Crocodile,Crocodile-Bounce,Crocodile-Bounce.bvh
+Crocodile,Crocodile-Die,Crocodile-Die.bvh
+Crocodile,Crocodile-GetUp,Crocodile-GetUp.bvh
+Crocodile,Crocodile-HeavyBreathe,Crocodile-HeavyBreathe.bvh
+Crocodile,Crocodile-Idle,Crocodile-Idle.bvh
+Crocodile,Crocodile-NormalBreath,Crocodile-NormalBreath.bvh
+Crocodile,Crocodile-Running,Crocodile-Running.bvh
+Crocodile,Crocodile-SleepLoop,Crocodile-SleepLoop.bvh
+Crocodile,Crocodile-TailWhip,Crocodile-TailWhip.bvh
+Crocodile,Crocodile-Yawning,Crocodile-Yawning.bvh
+Crow,CrowALL-Ascend,CrowALL-Ascend.bvh
+Crow,CrowALL-Attack,CrowALL-Attack.bvh
+Crow,CrowALL-Attack,CrowALL-Attack2.bvh
+Crow,CrowALL-FlyStart,CrowALL-FlyStart.bvh
+Crow,CrowALL-Glide,CrowALL-Glide.bvh
+Crow,CrowALL-Idle,CrowALL-Idle.bvh
+Crow,CrowALL-IdleFlap,CrowALL-IdleFlap.bvh
+Crow,CrowALL-Landflap,CrowALL-Landflap.bvh
+Crow,CrowALL-PeckEat,CrowALL-PeckEat.bvh
+Crow,CrowALL-TakeOff,CrowALL-TakeOff.bvh
+Deer,DEER-Backing,DEER-Backing.bvh
+Deer,DEER-Bleat,DEER-Bleat.bvh
+Deer,DEER-BuckShy,DEER-BuckShy.bvh
+Deer,DEER-Charge,DEER-Charge.bvh
+Deer,DEER-ComeDown,DEER-ComeDown.bvh
+Deer,DEER-Gallop,DEER-Gallop.bvh
+Deer,DEER-GetUp,DEER-GetUp.bvh
+Deer,DEER-GetUpAgain,DEER-GetUpAgain.bvh
+Deer,DEER-Grazing,DEER-Grazing.bvh
+Deer,DEER-Idle,DEER-Idle.bvh
+Deer,DEER-idleEarFlik,DEER-idleEarFlik.bvh
+Deer,DEER-RearUp,DEER-RearUp.bvh
+Deer,DEER-Rutting,DEER-Rutting.bvh
+Deer,DEER-Squirly,DEER-Squirly.bvh
+Deer,DEER-TakeOff,DEER-TakeOff.bvh
+Deer,DEER-Trot,DEER-Trot.bvh
+Deer,DEER-TurnLeft,DEER-TurnLeft.bvh
+Deer,DEER-WalkBack,DEER-WalkBack.bvh
+Deer,DEER-WalkForward,DEER-WalkForward.bvh
+Dog,Dog-Attack,Dog-Attack.bvh
+Dog,Dog-Back Away,Dog-Back Away.bvh
+Dog,Dog-Bark Jump,Dog-Bark Jump.bvh
+Dog,Dog-Barking,Dog-Barking.bvh
+Dog,Dog-Bite Arm,Dog-Bite Arm.bvh
+Dog,Dog-Floor Rise Left,Dog-Floor Rise Left.bvh
+Dog,Dog-Floor Rise Right,Dog-Floor Rise Right.bvh
+Dog,Dog-Frightened,Dog-Frightened.bvh
+Dog,Dog-Galloping,Dog-Galloping.bvh
+Dog,Dog-Grab,Dog-Grab.bvh
+Dog,Dog-Hit Left,Dog-Hit Left.bvh
+Dog,Dog-Hit Right,Dog-Hit Right.bvh
+Dog,Dog-Idle,Dog-Idle.bvh
+Dog,Dog-Investigate Loop,Dog-Investigate Loop.bvh
+Dog,Dog-Leash Attack,Dog-Leash Attack.bvh
+Dog,Dog-Leash Hot,Dog-Leash Hot.bvh
+Dog,Dog-Limp Loop,Dog-Limp Loop.bvh
+Dog,Dog-Look Left,Dog-Look Left.bvh
+Dog,Dog-Look Right,Dog-Look Right.bvh
+Dog,Dog-Paddle,Dog-Paddle.bvh
+Dog,Dog-PAnting,Dog-PAnting.bvh
+Dog,Dog-retreat,Dog-retreat.bvh
+Dog,Dog-Rise,Dog-Rise.bvh
+Dog,Dog-Run Frisbee,Dog-Run Frisbee.bvh
+Dog,Dog-Running,Dog-Running.bvh
+Dog,Dog-Scratch Right,Dog-Scratch Right.bvh
+Dog,Dog-Single bark,Dog-Single bark.bvh
+Dog,Dog-Sit,Dog-Sit.bvh
+Dog,Dog-Snarling,Dog-Snarling.bvh
+Dog,Dog-SNiffed,Dog-SNiffed.bvh
+Dog,Dog-Stare,Dog-Stare.bvh
+Dog,Dog-Swim Fast,Dog-Swim Fast.bvh
+Dog,Dog-swim left,Dog-swim left.bvh
+Dog,Dog-Swim Right,Dog-Swim Right.bvh
+Dog,Dog-swim,Dog-swim.bvh
+Dog,Dog-Turn Left,Dog-Turn Left.bvh
+Dog,Dog-Turn Right,Dog-Turn Right.bvh
+Dog,Dog-Wag,Dog-Wag.bvh
+Dog,Dog-Walk Backwards Loop,Dog-Walk Backwards Loop.bvh
+Dog,Dog-Walk Loop,Dog-Walk Loop.bvh
+Dog,Dog-Walk,Dog-Walk.bvh
+Dog,Dog-Wine,Dog-Wine.bvh
+Dog,Dog-Woof,Dog-Woof.bvh
+Dragon,Wyvern-Attack,Wyvern-Attack.bvh
+Dragon,Wyvern-Attack,Wyvern-Attack2.bvh
+Dragon,Wyvern-Attack,Wyvern-Attack3.bvh
+Dragon,Wyvern-Die,Wyvern-Die.bvh
+Dragon,Wyvern-Fly,Wyvern-Fly.bvh
+Dragon,Wyvern-Idle,Wyvern-Idle.bvh
+Dragon,Wyvern-Idle,Wyvern-Idle2.bvh
+Dragon,Wyvern-Idle,Wyvern-Idle3.bvh
+Dragon,Wyvern-SlowFly,Wyvern-SlowFly.bvh
+Eagle,Eagle-EggSteal,Eagle-EggSteal.bvh
+Eagle,Eagle-FloatDown,Eagle-FloatDown.bvh
+Eagle,Eagle-FloattUp,Eagle-FloattUp.bvh
+Eagle,Eagle-FlyLoop,Eagle-FlyLoop.bvh
+Eagle,Eagle-GlideLoop,Eagle-GlideLoop.bvh
+Eagle,Eagle-IdleNest,Eagle-IdleNest.bvh
+Eagle,Eagle-Landing,Eagle-Landing.bvh
+Eagle,Eagle-RideWind,Eagle-RideWind.bvh
+Eagle,Eagle-Shot,Eagle-Shot.bvh
+Eagle,Eagle-Strike,Eagle-Strike1.bvh
+Eagle,Eagle-Strike,Eagle-Strike2.bvh
+Eagle,Eagle-TakeOff,Eagle-TakeOff.bvh
+Elephant,Elephant-attack,Elephant-attack1.bvh
+Elephant,Elephant-attack,Elephant-attack2.bvh
+Elephant,Elephant-die,Elephant-die.bvh
+Elephant,Elephant-downin,Elephant-downin.bvh
+Elephant,Elephant-downloop,Elephant-downloop.bvh
+Elephant,Elephant-downout,Elephant-downout.bvh
+Elephant,Elephant-idle,Elephant-idle1.bvh
+Elephant,Elephant-idle,Elephant-idle2.bvh
+Elephant,Elephant-idle,Elephant-idle3.bvh
+Elephant,Elephant-passout,Elephant-passout.bvh
+Elephant,Elephant-run,Elephant-run.bvh
+Elephant,Elephant-walk,Elephant-walk.bvh
+FireAnt,Fire ant-Angry,Fire ant-Angry.bvh
+FireAnt,Fire ant-Annoyed,Fire ant-Annoyed.bvh
+FireAnt,Fire ant-BackUp,Fire ant-BackUp.bvh
+FireAnt,Fire ant-Bite,Fire ant-Bite.bvh
+FireAnt,Fire ant-Creep,Fire ant-Creep.bvh
+FireAnt,Fire ant-Feel,Fire ant-Feel.bvh
+FireAnt,Fire ant-FightOff,Fire ant-FightOff.bvh
+FireAnt,Fire ant-ForwardMarch,Fire ant-ForwardMarch.bvh
+FireAnt,Fire ant-Gesture,Fire ant-Gesture.bvh
+FireAnt,Fire ant-Hit,Fire ant-Hit.bvh
+FireAnt,Fire ant-Hungry,Fire ant-Hungry.bvh
+FireAnt,Fire ant-Idle,Fire ant-Idle.bvh
+FireAnt,Fire ant-Jump,Fire ant-Jump.bvh
+FireAnt,Fire ant-Left,Fire ant-Left.bvh
+FireAnt,Fire ant-Right,Fire ant-Right.bvh
+FireAnt,Fire ant-Rip,Fire ant-Rip.bvh
+FireAnt,Fire ant-RipFlesh,Fire ant-RipFlesh.bvh
+FireAnt,Fire ant-RipFlesh,Fire ant-RipFlesh2.bvh
+FireAnt,Fire ant-Roar,Fire ant-Roar.bvh
+FireAnt,Fire ant-Snap,Fire ant-Snap.bvh
+FireAnt,Fire ant-TurnLeft,Fire ant-TurnLeft.bvh
+FireAnt,Fire ant-TurnRight,Fire ant-TurnRight.bvh
+FireAnt,Fire ant-UpFromDown,Fire ant-UpFromDown.bvh
+FireAnt,Fire ant-UpFromDown,Fire ant-UpFromDown2.bvh
+Flamingo,Flamingo-BendIdle,Flamingo-BendIdle.bvh
+Flamingo,Flamingo-OneLEgBEnt,Flamingo-OneLEgBEnt.bvh
+Flamingo,Flamingo-Sleep,Flamingo-Sleep.bvh
+Flamingo,Flamingo-Walk,Flamingo-Walk.bvh
+Fox,Fox-attack,Fox-attack1.bvh
+Fox,Fox-attack,Fox-attack2.bvh
+Fox,Fox-attack,Fox-attack3.bvh
+Fox,Fox-attack,Fox-attack4.bvh
+Fox,Fox-die,Fox-die.bvh
+Fox,Fox-die,Fox-die2.bvh
+Fox,Fox-idle,Fox-idle1.bvh
+Fox,Fox-idle,Fox-idle2.bvh
+Fox,Fox-idle,Fox-idle3.bvh
+Fox,Fox-idle,Fox-idle4.bvh
+Fox,Fox-idle,Fox-idle5.bvh
+Fox,Fox-run,Fox-run.bvh
+Fox,Fox-walk,Fox-walk.bvh
+Gazelle,Gazelle-Alert,Gazelle-Alert.bvh
+Gazelle,Gazelle-Attack,Gazelle-Attack.bvh
+Gazelle,Gazelle-Attack,Gazelle-Attack1.bvh
+Gazelle,Gazelle-HeadPoke,Gazelle-HeadPoke.bvh
+Gazelle,Gazelle-Idle,Gazelle-Idle.bvh
+Gazelle,Gazelle-IdleReady,Gazelle-IdleReady.bvh
+Gazelle,Gazelle-Run,Gazelle-Run.bvh
+Gazelle,Gazelle-Walk,Gazelle-Walk.bvh
+Giantbee,Giantbee-Attack,Giantbee-Attack.bvh
+Giantbee,Giantbee-Attack,Giantbee-Attack2.bvh
+Giantbee,Giantbee-Attack,Giantbee-Attack3.bvh
+Giantbee,Giantbee-Attack,Giantbee-Attack4.bvh
+Giantbee,Giantbee-Die,Giantbee-Die.bvh
+Giantbee,Giantbee-Die,Giantbee-Die2.bvh
+Giantbee,Giantbee-Fly,Giantbee-Fly.bvh
+Giantbee,Giantbee-Idle,Giantbee-Idle.bvh
+Giantbee,Giantbee-Idle,Giantbee-Idle2.bvh
+Goat,Goat-Attack,Goat-Attack.bvh
+Goat,Goat-Bleat,Goat-Bleat.bvh
+Goat,Goat-Die,Goat-Die.bvh
+Goat,Goat-HeadButt,Goat-HeadButt.bvh
+Goat,Goat-HeadButt,Goat-HeadButt2.bvh
+Goat,Goat-HoofScrape,Goat-HoofScrape.bvh
+Goat,Goat-Idle,Goat-Idle.bvh
+Goat,Goat-JumpKnock,Goat-JumpKnock.bvh
+Goat,Goat-Run,Goat-Run.bvh
+Goat,Goat-Walk,Goat-Walk.bvh
+Hamster,Hamster-Idle,Hamster-Idle.bvh
+Hamster,Hamster-RollAttack,Hamster-RollAttack.bvh
+Hamster,Hamster-Run,Hamster-Run.bvh
+Hamster,Hamster-Sniff,Hamster-Sniff.bvh
+Hamster,Hamster-Walk,Hamster-Walk.bvh
+HermitCrab,CrabAll-Die,CrabAll-Die.bvh
+HermitCrab,CrabAll-Eat,CrabAll-Eat.bvh
+HermitCrab,CrabAll-Expire,CrabAll-Expire.bvh
+HermitCrab,CrabAll-Fighting,CrabAll-Fighting.bvh
+HermitCrab,CrabAll-KnockedBack,CrabAll-KnockedBack.bvh
+HermitCrab,CrabAll-KnockedOut,CrabAll-KnockedOut.bvh
+HermitCrab,CrabAll-OutofGround,CrabAll-OutofGround.bvh
+HermitCrab,CrabAll-Pinchers,CrabAll-Pinchers.bvh
+HermitCrab,CrabAll-SandBurrough,CrabAll-SandBurrough.bvh
+HermitCrab,CrabAll-Sleep,CrabAll-Sleep.bvh
+HermitCrab,CrabAll-Slowwalk,CrabAll-Slowwalk.bvh
+HermitCrab,CrabAll-Take ,CrabAll-Take 001.bvh
+HermitCrab,CrabAll-Walk,CrabAll-Walk.bvh
+Hippopotamus,Hippopotamus-Attack,Hippopotamus-Attack.bvh
+Hippopotamus,Hippopotamus-Attack,Hippopotamus-Attack2.bvh
+Hippopotamus,Hippopotamus-Attack,Hippopotamus-Attack3.bvh
+Hippopotamus,Hippopotamus-Attack,Hippopotamus-Attack4.bvh
+Hippopotamus,Hippopotamus-Die,Hippopotamus-Die.bvh
+Hippopotamus,Hippopotamus-Idle,Hippopotamus-Idle.bvh
+Hippopotamus,Hippopotamus-Idle,Hippopotamus-Idle2.bvh
+Hippopotamus,Hippopotamus-Run,Hippopotamus-Run.bvh
+Hippopotamus,Hippopotamus-Walk,Hippopotamus-Walk.bvh
+Hippopotamus,Hippopotamus-Yawn,Hippopotamus-Yawn.bvh
+Horse,HorseALL-Attack,HorseALL-Attack.bvh
+Horse,HorseALL-BackUp,HorseALL-BackUp.bvh
+Horse,HorseALL-Bucking,HorseALL-Bucking.bvh
+Horse,HorseALL-Dying,HorseALL-Dying.bvh
+Horse,HorseALL-FeetUp,HorseALL-FeetUp.bvh
+Horse,HorseALL-GetUp,HorseALL-GetUp.bvh
+Horse,HorseALL-HoofScrape,HorseALL-HoofScrape.bvh
+Horse,HorseALL-HoofScrape,HorseALL-HoofScrape2.bvh
+Horse,HorseALL-Idle,HorseALL-Idle.bvh
+Horse,HorseALL-Idle,HorseALL-Idle3.bvh
+Horse,HorseALL-IdleEars,HorseALL-IdleEars.bvh
+Horse,HorseALL-InAir,HorseALL-InAir.bvh
+Horse,HorseALL-Jumping,HorseALL-Jumping.bvh
+Horse,HorseALL-JumpLand,HorseALL-JumpLand.bvh
+Horse,HorseALL-KnockedBack,HorseALL-KnockedBack.bvh
+Horse,HorseALL-LandRun,HorseALL-LandRun.bvh
+Horse,HorseALL-LoneRanger,HorseALL-LoneRanger.bvh
+Horse,HorseALL-Lying,HorseALL-Lying.bvh
+Horse,HorseALL-Rearing,HorseALL-Rearing.bvh
+Horse,HorseALL-Rearing,HorseALL-Rearing2.bvh
+Horse,HorseALL-Restless,HorseALL-Restless.bvh
+Horse,HorseALL-Restless,HorseALL-Restless2.bvh
+Horse,HorseALL-Restless,HorseALL-Restless3.bvh
+Horse,HorseALL-RunJump,HorseALL-RunJump.bvh
+Horse,HorseALL-RunLoop,HorseALL-RunLoop.bvh
+Horse,HorseALL-RunToStop,HorseALL-RunToStop.bvh
+Horse,HorseALL-SlowIdle,HorseALL-SlowIdle.bvh
+Horse,HorseALL-SlowWalk,HorseALL-SlowWalk.bvh
+Hound,Hound-Attack,Hound-Attack.bvh
+Hound,Hound-Bark,Hound-Bark1.bvh
+Hound,Hound-Barking,Hound-Barking.bvh
+Hound,Hound-Die,Hound-Die.bvh
+Hound,Hound-DieLoop,Hound-DieLoop.bvh
+Hound,Hound-GetUp,Hound-GetUp.bvh
+Hound,Hound-Hit,Hound-Hit.bvh
+Hound,Hound-Idle,Hound-Idle.bvh
+Hound,Hound-Ready,Hound-Ready2.bvh
+Hound,Hound-Restless,Hound-Restless.bvh
+Hound,Hound-RunLoop,Hound-RunLoop.bvh
+Hound,Hound-Sniff,Hound-Sniff.bvh
+Hound,Hound-WalkLoop,Hound-WalkLoop.bvh
+Isopetra,Isopetra-Attack,Isopetra-Attack.bvh
+Isopetra,Isopetra-Attack,Isopetra-Attack2.bvh
+Isopetra,Isopetra-Attack,Isopetra-Attack3.bvh
+Isopetra,Isopetra-Die,Isopetra-Die.bvh
+Isopetra,Isopetra-Idle,Isopetra-Idle.bvh
+Isopetra,Isopetra-Idle,Isopetra-Idle2.bvh
+Isopetra,Isopetra-Idle,Isopetra-Idle3.bvh
+Isopetra,Isopetra-Run,Isopetra-Run.bvh
+Isopetra,Isopetra-Walk,Isopetra-Walk.bvh
+Jaguar,Jaguar-Attack,Jaguar-Attack.bvh
+Jaguar,Jaguar-Attack,Jaguar-Attack1.bvh
+Jaguar,Jaguar-Attack,Jaguar-Attack2.bvh
+Jaguar,Jaguar-Die,Jaguar-Die1.bvh
+Jaguar,Jaguar-Die,Jaguar-Die2.bvh
+Jaguar,Jaguar-GetUp,Jaguar-GetUp.bvh
+Jaguar,Jaguar-Idle,Jaguar-Idle.bvh
+Jaguar,Jaguar-LieIdle,Jaguar-LieIdle.bvh
+Jaguar,Jaguar-Low,Jaguar-Low.bvh
+Jaguar,Jaguar-Run,Jaguar-Run.bvh
+Jaguar,Jaguar-Sit,Jaguar-Sit.bvh
+Jaguar,Jaguar-Stancing,Jaguar-Stancing.bvh
+Jaguar,Jaguar-Walk,Jaguar-Walk.bvh
+Jaws,Shark-BiteLeft,Shark-BiteLeft.bvh
+Jaws,Shark-BiteRight,Shark-BiteRight.bvh
+Jaws,Shark-Dead,Shark-Dead.bvh
+Jaws,Shark-DeadLoop,Shark-DeadLoop.bvh
+Jaws,Shark-Swim,Shark-Swim.bvh
+Jaws,Shark-Swim,Shark-Swim180.bvh
+Jaws,Shark-SwimAt,Shark-SwimAt.bvh
+Jaws,Shark-SwimLeft,Shark-SwimLeft.bvh
+Jaws,Shark-SwimRight,Shark-SwimRight.bvh
+KingCobra,Cobra-Attack,Cobra-Attack.bvh
+KingCobra,Cobra-Attack,Cobra-Attack2.bvh
+KingCobra,Cobra-Bite,Cobra-Bite.bvh
+KingCobra,Cobra-CircleBite,Cobra-CircleBite.bvh
+KingCobra,Cobra-GetUp,Cobra-GetUp.bvh
+KingCobra,Cobra-Idle,Cobra-Idle.bvh
+KingCobra,Cobra-IdleLoop,Cobra-IdleLoop.bvh
+KingCobra,Cobra-Killed,Cobra-Killed.bvh
+KingCobra,Cobra-Steady,Cobra-Steady.bvh
+Leapord,Leopard-Attack,Leopard-Attack.bvh
+Leapord,Leopard-Bite,Leopard-Bite.bvh
+Leapord,Leopard-Death,Leopard-Death.bvh
+Leapord,Leopard-Die,Leopard-Die.bvh
+Leapord,Leopard-DieLoop,Leopard-DieLoop.bvh
+Leapord,Leopard-Graze,Leopard-Graze.bvh
+Leapord,Leopard-Growl,Leopard-Growl.bvh
+Leapord,Leopard-Idle,Leopard-Idle.bvh
+Leapord,Leopard-JumpUp,Leopard-JumpUp.bvh
+Leapord,Leopard-Pounce,Leopard-Pounce.bvh
+Leapord,Leopard-PounceSwipe,Leopard-PounceSwipe.bvh
+Leapord,Leopard-Run,Leopard-Run.bvh
+Leapord,Leopard-Sick,Leopard-Sick.bvh
+Leapord,Leopard-Walk,Leopard-Walk.bvh
+Lion,LionAll-Attack,LionAll-Attack.bvh
+Lion,LionAll-Attack,LionAll-Attack1.bvh
+Lion,LionAll-DeathIdle,LionAll-DeathIdle.bvh
+Lion,LionAll-Die,LionAll-Die.bvh
+Lion,LionAll-Die,LionAll-Die2.bvh
+Lion,LionAll-GetUp,LionAll-GetUp.bvh
+Lion,LionAll-Growl,LionAll-Growl.bvh
+Lion,LionAll-JumpBite,LionAll-JumpBite.bvh
+Lion,LionAll-LeapBite,LionAll-LeapBite.bvh
+Lion,LionAll-Run,LionAll-Run.bvh
+Lion,LionAll-SlowIdle,LionAll-SlowIdle.bvh
+Lion,LionAll-Sniff,LionAll-Sniff.bvh
+Lion,LionAll-Swatting,LionAll-Swatting.bvh
+Lion,LionAll-Walk,LionAll-Walk.bvh
+Lion,LionAll-Yawn,LionAll-Yawn.bvh
+Lynx,Lynx-Attack,Lynx-Attack.bvh
+Lynx,Lynx-Attack,Lynx-Attack2.bvh
+Lynx,Lynx-Attack,Lynx-Attack3.bvh
+Lynx,Lynx-Die,Lynx-Die.bvh
+Lynx,Lynx-Die,Lynx-Die2.bvh
+Lynx,Lynx-DieLoop,Lynx-DieLoop.bvh
+Lynx,Lynx-Idle,Lynx-Idle.bvh
+Lynx,Lynx-Idle,Lynx-Idle2.bvh
+Lynx,Lynx-Idle,Lynx-Idle3.bvh
+Lynx,Lynx-Jump,Lynx-Jump.bvh
+Lynx,Lynx-Run,Lynx-Run.bvh
+Lynx,Lynx-Stand,Lynx-Stand.bvh
+Lynx,Lynx-Walk,Lynx-Walk.bvh
+Mammoth,Mammoth-Bellow,Mammoth-Bellow.bvh
+Mammoth,Mammoth-DeathLoop,Mammoth-DeathLoop.bvh
+Mammoth,Mammoth-Die,Mammoth-Die.bvh
+Mammoth,Mammoth-Die,Mammoth-Die2.bvh
+Mammoth,Mammoth-Gesture,Mammoth-Gesture.bvh
+Mammoth,Mammoth-GetUp,Mammoth-GetUp.bvh
+Mammoth,Mammoth-IDLE,Mammoth-IDLE.bvh
+Mammoth,Mammoth-Idle,Mammoth-Idle2.bvh
+Mammoth,Mammoth-Rise,Mammoth-Rise.bvh
+Mammoth,Mammoth-Run,Mammoth-Run.bvh
+Mammoth,Mammoth-SideSwipe,Mammoth-SideSwipe.bvh
+Mammoth,Mammoth-Walk,Mammoth-Walk.bvh
+Monkey,Monkey-Attack,Monkey-Attack1.bvh
+Monkey,Monkey-Attack,Monkey-Attack2.bvh
+Monkey,Monkey-Attack,Monkey-Attack3.bvh
+Monkey,Monkey-Attack,Monkey-Attack4.bvh
+Monkey,Monkey-Attack,Monkey-Attack5.bvh
+Monkey,Monkey-Die,Monkey-Die1.bvh
+Monkey,Monkey-Die,Monkey-Die2.bvh
+Monkey,Monkey-Die,Monkey-Die3.bvh
+Monkey,Monkey-Idle,Monkey-Idle1.bvh
+Monkey,Monkey-run,Monkey-run.bvh
+Monkey,Monkey-Walk,Monkey-Walk1.bvh
+Ostrich,Ostrich-Attack,Ostrich-Attack.bvh
+Ostrich,Ostrich-Attack,Ostrich-Attack2.bvh
+Ostrich,Ostrich-Attack,Ostrich-Attack3.bvh
+Ostrich,Ostrich-Attack,Ostrich-Attack4.bvh
+Ostrich,Ostrich-Die,Ostrich-Die.bvh
+Ostrich,Ostrich-Idle,Ostrich-Idle.bvh
+Ostrich,Ostrich-Idle,Ostrich-Idle2.bvh
+Ostrich,Ostrich-Idle,Ostrich-Idle3.bvh
+Ostrich,Ostrich-Run,Ostrich-Run.bvh
+Ostrich,Ostrich-Walk,Ostrich-Walk.bvh
+Parrot,Parrot-Attack,Parrot-Attack.bvh
+Parrot,Parrot-CircleFly,Parrot-CircleFly.bvh
+Parrot,Parrot-Die,Parrot-Die.bvh
+Parrot,Parrot-Die,Parrot-Die2.bvh
+Parrot,Parrot-Die,Parrot-Die3.bvh
+Parrot,Parrot-Fly,Parrot-Fly.bvh
+Parrot,Parrot-Hover,Parrot-Hover.bvh
+Parrot,Parrot-Idle,Parrot-Idle.bvh
+Parrot,Parrot-Idle,Parrot-Idle2.bvh
+Parrot,Parrot-Land,Parrot-Land.bvh
+Parrot,Parrot-Preen,Parrot-Preen.bvh
+Parrot,Parrot-Rise,Parrot-Rise.bvh
+Parrot,Parrot-Walk,Parrot-Walk.bvh
+Pigeon,Pigeon-Circle,Pigeon-Circle.bvh
+Pigeon,Pigeon-Cooing,Pigeon-Cooing.bvh
+Pigeon,Pigeon-FlyLoop,Pigeon-FlyLoop.bvh
+Pigeon,Pigeon-Idle,Pigeon-Idle.bvh
+Pigeon,Pigeon-IdleLoop,Pigeon-IdleLoop.bvh
+Pigeon,Pigeon-Land,Pigeon-Land.bvh
+Pigeon,Pigeon-Left,Pigeon-Left.bvh
+Pigeon,Pigeon-Peck,Pigeon-Peck.bvh
+Pigeon,Pigeon-Right,Pigeon-Right.bvh
+Pigeon,Pigeon-TakeOff,Pigeon-TakeOff.bvh
+Pigeon,Pigeon-Walk,Pigeon-Walk.bvh
+Pirrana,Piranna-Biting,Piranna-Biting.bvh
+Pirrana,Piranna-Biting,Piranna-Biting2.bvh
+Pirrana,Piranna-DeadFloat,Piranna-DeadFloat.bvh
+Pirrana,Piranna-DeadFloat,Piranna-DeadFloat2.bvh
+Pirrana,Piranna-DiveIn,Piranna-DiveIn.bvh
+Pirrana,Piranna-Flopping,Piranna-Flopping.bvh
+Pirrana,Piranna-Jump,Piranna-Jump2.bvh
+Pirrana,Piranna-MidSwim,Piranna-MidSwim.bvh
+Pirrana,Piranna-RiseTop,Piranna-RiseTop.bvh
+Pirrana,Piranna-Swim,Piranna-Swim.bvh
+Pirrana,Piranna-SwimJump,Piranna-SwimJump.bvh
+PolarBear,PolarBear-Attack,PolarBear-Attack.bvh
+PolarBear,PolarBear-Attack,PolarBear-Attack2.bvh
+PolarBear,PolarBear-Attack,PolarBear-Attack3.bvh
+PolarBear,PolarBear-Die,PolarBear-Die.bvh
+PolarBear,PolarBear-Idle,PolarBear-Idle.bvh
+PolarBear,PolarBear-Idle,PolarBear-Idle2.bvh
+PolarBear,PolarBear-Idle,PolarBear-Idle3.bvh
+PolarBear,PolarBear-Run,PolarBear-Run.bvh
+PolarBear,PolarBear-Walk,PolarBear-Walk.bvh
+Pteranodon,Pteranodon-ArcLeft,Pteranodon-ArcLeft.bvh
+Pteranodon,Pteranodon-ArcRight,Pteranodon-ArcRight.bvh
+Pteranodon,Pteranodon-Death,Pteranodon-Death.bvh
+Pteranodon,Pteranodon-Death,Pteranodon-Death2.bvh
+Pteranodon,Pteranodon-Fancy,Pteranodon-Fancy.bvh
+Pteranodon,Pteranodon-Flapergasted,Pteranodon-Flapergasted.bvh
+Pteranodon,Pteranodon-FlyLoop,Pteranodon-FlyLoop.bvh
+Pteranodon,Pteranodon-GlideScream,Pteranodon-GlideScream.bvh
+Pteranodon,Pteranodon-Hit,Pteranodon-Hit.bvh
+Pteranodon,Pteranodon-Hit,Pteranodon-Hit2.bvh
+Pteranodon,Pteranodon-Lander,Pteranodon-Lander.bvh
+Pteranodon,Pteranodon-ScreamFly,Pteranodon-ScreamFly.bvh
+Puppy,Puppy-IdleEnergetic,Puppy-IdleEnergetic.bvh
+Puppy,Puppy-IdleLayDown,Puppy-IdleLayDown.bvh
+Puppy,Puppy-Run,Puppy-Run.bvh
+Puppy,Puppy-Walk,Puppy-Walk.bvh
+Raindeer,Raindeer-Attack,Raindeer-Attack.bvh
+Raindeer,Raindeer-Attack,Raindeer-Attack2.bvh
+Raindeer,Raindeer-Attack,Raindeer-Attack3.bvh
+Raindeer,Raindeer-Die,Raindeer-Die.bvh
+Raindeer,Raindeer-Idle,Raindeer-Idle.bvh
+Raindeer,Raindeer-Run,Raindeer-Run.bvh
+Raindeer,Raindeer-Stance,Raindeer-Stance.bvh
+Raindeer,Raindeer-Walk,Raindeer-Walk.bvh
+Raindeer,Raindeer-Yell,Raindeer-Yell.bvh
+Raptor,Raptor-Attack,Raptor-Attack.bvh
+Raptor,Raptor-Die,Raptor-Die.bvh
+Raptor,Raptor-FastWalk,Raptor-FastWalk.bvh
+Raptor,Raptor-HeadSmash,Raptor-HeadSmash.bvh
+Raptor,Raptor-Idle,Raptor-Idle.bvh
+Raptor,Raptor-Idle,Raptor-Idle2.bvh
+Raptor,Raptor-LegScratch,Raptor-LegScratch.bvh
+Raptor,Raptor-Roar,Raptor-Roar.bvh
+Raptor,Raptor-SlowWalk,Raptor-SlowWalk.bvh
+Raptor,Raptor-Yawn,Raptor-Yawn.bvh
+Rat,Rat-AlertRun,Rat-AlertRun.bvh
+Rat,Rat-Clean,Rat-Clean.bvh
+Rat,Rat-Eat,Rat-Eat.bvh
+Rat,Rat-Itch,Rat-Itch.bvh
+Rat,Rat-Scamper,Rat-Scamper.bvh
+Rat,Rat-Trottle,Rat-Trottle.bvh
+Rhino,Rhino-Attack,Rhino-Attack.bvh
+Rhino,Rhino-Attack,Rhino-Attack2.bvh
+Rhino,Rhino-Attack,Rhino-Attack3.bvh
+Rhino,Rhino-Die,Rhino-Die.bvh
+Rhino,Rhino-idle,Rhino-idle.bvh
+Rhino,Rhino-Idle,Rhino-Idle2.bvh
+Rhino,Rhino-Idle,Rhino-Idle3.bvh
+Rhino,Rhino-Run,Rhino-Run.bvh
+Rhino,Rhino-Walk,Rhino-Walk.bvh
+Roach,roach-Bristle,roach-Bristle.bvh
+Roach,roach-Hop,roach-Hop.bvh
+Roach,roach-Left,roach-Left.bvh
+Roach,roach-Move,roach-Move.bvh
+Roach,roach-Scurry,roach-Scurry.bvh
+Roach,roach-Shake,roach-Shake.bvh
+Roach,roach-Smelling,roach-Smelling.bvh
+Roach,roach-TurnLeft,roach-TurnLeft.bvh
+Roach,roach-TurnRight,roach-TurnRight.bvh
+Roach,roach-Uppity,roach-Uppity.bvh
+SabreToothTiger,SABREALL-Flip,SABREALL-180Flip.bvh
+SabreToothTiger,SABREALL-RIght,SABREALL-180RIght.bvh
+SabreToothTiger,SABREALL-TurnLeft,SABREALL-45TurnLeft.bvh
+SabreToothTiger,SABREALL-Agitated,SABREALL-Agitated.bvh
+SabreToothTiger,SABREALL-Attack,SABREALL-Attack.bvh
+SabreToothTiger,SABREALL-Backing,SABREALL-Backing.bvh
+SabreToothTiger,SABREALL-BackUp,SABREALL-BackUp.bvh
+SabreToothTiger,SABREALL-Begg,SABREALL-Begg.bvh
+SabreToothTiger,SABREALL-Bite,SABREALL-Bite.bvh
+SabreToothTiger,SABREALL-CageBat,SABREALL-CageBat.bvh
+SabreToothTiger,SABREALL-Cowering,SABREALL-Cowering.bvh
+SabreToothTiger,SABREALL-Cowering,SABREALL-Cowering2.bvh
+SabreToothTiger,SABREALL-Eating,SABREALL-Eating.bvh
+SabreToothTiger,SABREALL-GetUp,SABREALL-GetUp.bvh
+SabreToothTiger,SABREALL-GetUp,SABREALL-GetUp2.bvh
+SabreToothTiger,SABREALL-GetUpMad,SABREALL-GetUpMad.bvh
+SabreToothTiger,SABREALL-Growling,SABREALL-Growling.bvh
+SabreToothTiger,SABREALL-Layout,SABREALL-Layout.bvh
+SabreToothTiger,SABREALL-Leaper,SABREALL-Leaper.bvh
+SabreToothTiger,SABREALL-LeftTurn,SABREALL-LeftTurn.bvh
+SabreToothTiger,SABREALL-Mean,SABREALL-Mean.bvh
+SabreToothTiger,SABREALL-PawSwatting,SABREALL-PawSwatting.bvh
+SabreToothTiger,SABREALL-PissedOff,SABREALL-PissedOff.bvh
+SabreToothTiger,SABREALL-PissedOff,SABREALL-PissedOff2.bvh
+SabreToothTiger,SABREALL-Raged,SABREALL-Raged.bvh
+SabreToothTiger,SABREALL-Roaring,SABREALL-Roaring.bvh
+SabreToothTiger,SABREALL-Run,SABREALL-Run.bvh
+SabreToothTiger,SABREALL-Run,SABREALL-Run2.bvh
+SabreToothTiger,SABREALL-Sit,SABREALL-Sit.bvh
+SabreToothTiger,SABREALL-Sitting,SABREALL-Sitting.bvh
+SabreToothTiger,SABREALL-Sitting,SABREALL-Sitting2.bvh
+SabreToothTiger,SABREALL-Slow,SABREALL-Slow180.bvh
+SabreToothTiger,SABREALL-Snap,SABREALL-Snap.bvh
+SabreToothTiger,SABREALL-Spin,SABREALL-Spin180.bvh
+SabreToothTiger,SABREALL-Stablize,SABREALL-Stablize.bvh
+SabreToothTiger,SABREALL-Stalker,SABREALL-Stalker.bvh
+SabreToothTiger,SABREALL-StartLeft,SABREALL-StartLeft.bvh
+SabreToothTiger,SABREALL-Startwalk,SABREALL-Startwalk.bvh
+SabreToothTiger,SABREALL-SwatLft,SABREALL-SwatLft.bvh
+SabreToothTiger,SABREALL-Swim,SABREALL-Swim.bvh
+SabreToothTiger,SABREALL-TiredYawn,SABREALL-TiredYawn.bvh
+SabreToothTiger,SABREALL-Trot,SABREALL-Trot.bvh
+SabreToothTiger,SABREALL-TurnLeft,SABREALL-TurnLeft.bvh
+SabreToothTiger,SABREALL-Warning,SABREALL-Warning.bvh
+SandMouse,SandMouse-Attack,SandMouse-Attack.bvh
+SandMouse,SandMouse-Attack,SandMouse-Attack2.bvh
+SandMouse,SandMouse-Die,SandMouse-Die.bvh
+SandMouse,SandMouse-Die,SandMouse-Die2.bvh
+SandMouse,SandMouse-Die,SandMouse-Die3.bvh
+SandMouse,SandMouse-DigIn,SandMouse-DigIn.bvh
+SandMouse,SandMouse-DigOut,SandMouse-DigOut.bvh
+SandMouse,SandMouse-Idle,SandMouse-Idle.bvh
+SandMouse,SandMouse-Idle,SandMouse-Idle2.bvh
+SandMouse,SandMouse-Idle,SandMouse-Idle3.bvh
+SandMouse,SandMouse-Idle,SandMouse-Idle4.bvh
+SandMouse,SandMouse-Run,SandMouse-Run.bvh
+SandMouse,SandMouse-Walk,SandMouse-Walk.bvh
+Scorpion,scorpion-Agitated,scorpion-Agitated.bvh
+Scorpion,scorpion-Attack,scorpion-Attack1.bvh
+Scorpion,scorpion-BackUp,scorpion-BackUp.bvh
+Scorpion,scorpion-Defend,scorpion-Defend.bvh
+Scorpion,scorpion-IdleLoop,scorpion-IdleLoop.bvh
+Scorpion,scorpion-Recoil,scorpion-Recoil.bvh
+Scorpion,scorpion-Recoil,scorpion-Recoil2.bvh
+Scorpion,scorpion-SlowForward,scorpion-SlowForward.bvh
+Scorpion,scorpion-Stinger,scorpion-Stinger.bvh
+Scorpion,scorpion-StretchArms,scorpion-StretchArms.bvh
+Scorpion,scorpion-TurnLeft,scorpion-TurnLeft.bvh
+Scorpion,scorpion-TurnRight,scorpion-TurnRight.bvh
+Scorpion,scorpion-WalkForward,scorpion-WalkForward.bvh
+Skunk,Skunk-Die,Skunk-Die.bvh
+Skunk,Skunk-Idle,Skunk-Idle.bvh
+Skunk,Skunk-Idle,Skunk-Idle2.bvh
+Skunk,Skunk-Idle,Skunk-Idle3.bvh
+Skunk,Skunk-Run,Skunk-Run.bvh
+Skunk,Skunk-Spray,Skunk-Spray.bvh
+Skunk,Skunk-Walk,Skunk-Walk.bvh
+Spider,Spider-Attack,Spider-Attack.bvh
+Spider,Spider-Attack,Spider-Attack2.bvh
+Spider,Spider-Attack,Spider-Attack3.bvh
+Spider,Spider-Attack,Spider-Attack4.bvh
+Spider,Spider-Attack,Spider-Attack5.bvh
+Spider,Spider-Attack,Spider-Attack6.bvh
+Spider,Spider-Attack,Spider-Attack7.bvh
+Spider,Spider-Burrough,Spider-Burrough.bvh
+Spider,Spider-ComeOut,Spider-ComeOut.bvh
+Spider,Spider-Die,Spider-Die.bvh
+Spider,Spider-Fangs,Spider-Fangs.bvh
+Spider,Spider-Idle,Spider-Idle.bvh
+Spider,Spider-Idle,Spider-Idle2.bvh
+Spider,Spider-Idle,Spider-Idle3.bvh
+Spider,Spider-Retreat,Spider-Retreat.bvh
+Spider,Spider-Run,Spider-Run.bvh
+Spider,Spider-Shiver,Spider-Shiver.bvh
+Spider,Spider-Walk,Spider-Walk.bvh
+Stego,Stego-Attack,Stego-Attack.bvh
+Stego,Stego-Attack,Stego-Attack2.bvh
+Stego,Stego-Attack,Stego-Attack3.bvh
+Stego,Stego-Idle,Stego-Idle.bvh
+Stego,Stego-Idle,Stego-Idle2.bvh
+Stego,Stego-Run,Stego-Run.bvh
+Stego,Stego-Shake,Stego-Shake.bvh
+Stego,Stego-Slowwalk,Stego-Slowwalk.bvh
+Stego,Stego-TailWhip,Stego-TailWhip.bvh
+Trex,T-Rex-Big roar step,T-Rex-Big roar step.bvh
+Trex,T-Rex-bite  left,T-Rex-bite 90 left.bvh
+Trex,T-Rex-bite  right,T-Rex-bite 90 right.bvh
+Trex,T-Rex-bite close left,T-Rex-bite close left.bvh
+Trex,T-Rex-bite close right,T-Rex-bite close right.bvh
+Trex,T-Rex-bite step back forward,T-Rex-bite step back forward.bvh
+Trex,T-Rex-chase bite left,T-Rex-chase bite left.bvh
+Trex,T-Rex-chase bite right,T-Rex-chase bite right.bvh
+Trex,T-Rex-chase bite,T-Rex-chase bite.bvh
+Trex,T-Rex-chase head butt left,T-Rex-chase head butt left.bvh
+Trex,T-Rex-chase roar left,T-Rex-chase roar left.bvh
+Trex,T-Rex-chase roar right,T-Rex-chase roar right.bvh
+Trex,T-Rex-Chase Roar,T-Rex-Chase Roar.bvh
+Trex,T-Rex-climb down,T-Rex-climb down.bvh
+Trex,T-Rex-climb up,T-Rex-climb up.bvh
+Trex,T-Rex-death short,T-Rex-death short.bvh
+Trex,T-Rex-death,T-Rex-death.bvh
+Trex,T-Rex-head butt left,T-Rex-head butt left.bvh
+Trex,T-Rex-hit head ,T-Rex-hit head 1.bvh
+Trex,T-Rex-hit head ,T-Rex-hit head 2.bvh
+Trex,T-Rex-hit head ,T-Rex-hit head 3.bvh
+Trex,T-Rex-hit leg ,T-Rex-hit leg 2.bvh
+Trex,T-Rex-hit leg,T-Rex-hit leg.bvh
+Trex,T-Rex-hit torso left,T-Rex-hit torso left.bvh
+Trex,T-Rex-hit torso right,T-Rex-hit torso right.bvh
+Trex,T-Rex-human bite,T-Rex-human bite.bvh
+Trex,T-Rex-human kill,T-Rex-human kill.bvh
+Trex,T-Rex-human shake,T-Rex-human shake.bvh
+Trex,T-Rex-idle attack to run left,T-Rex-idle attack to run left.bvh
+Trex,T-Rex-idle attack to run right,T-Rex-idle attack to run right.bvh
+Trex,T-Rex-idle attack,T-Rex-idle attack.bvh
+Trex,T-Rex-idle investigae out,T-Rex-idle investigae out.bvh
+Trex,T-Rex-idle investigate loop,T-Rex-idle investigate loop.bvh
+Trex,T-Rex-idle investigate,T-Rex-idle investigate.bvh
+Trex,T-Rex-idle sneeze,T-Rex-idle sneeze.bvh
+Trex,T-Rex-idle to run,T-Rex-idle to run.bvh
+Trex,T-Rex-kill long,T-Rex-kill long.bvh
+Trex,T-Rex-long death,T-Rex-long death.bvh
+Trex,T-Rex-look forward ,T-Rex-look forward 2.bvh
+Trex,T-Rex-look forward,T-Rex-look forward.bvh
+Trex,T-Rex-look left,T-Rex-look left.bvh
+Trex,T-Rex-look right,T-Rex-look right.bvh
+Trex,T-Rex-mama cave bite loop,T-Rex-mama cave bite loop.bvh
+Trex,T-Rex-mama cave bite out,T-Rex-mama cave bite out.bvh
+Trex,T-Rex-mama cave bite,T-Rex-mama cave bite.bvh
+Trex,T-Rex-roar left,T-Rex-roar left.bvh
+Trex,T-Rex-roar right,T-Rex-roar right.bvh
+Trex,T-Rex-ROAR,T-Rex-ROAR.bvh
+Trex,T-Rex-run head butt right,T-Rex-run head butt right.bvh
+Trex,T-Rex-run head loop,T-Rex-run head loop.bvh
+Trex,T-Rex-run head low ,T-Rex-run head low 2.bvh
+Trex,T-Rex-run head low,T-Rex-run head low.bvh
+Trex,T-Rex-run to stop,T-Rex-run to stop.bvh
+Trex,T-Rex-sprint head left,T-Rex-sprint head left.bvh
+Trex,T-Rex-sprint head right,T-Rex-sprint head right.bvh
+Trex,T-Rex-sprint loop,T-Rex-sprint loop.bvh
+Trex,T-Rex-step back,T-Rex-step back.bvh
+Trex,T-Rex-STILL,T-Rex-STILL.bvh
+Trex,T-Rex-stunned,T-Rex-stunned.bvh
+Trex,T-Rex-turn  look,T-Rex-turn 180 look.bvh
+Trex,T-Rex-turn  right,T-Rex-turn 180 right.bvh
+Trex,T-Rex-turn  turn right,T-Rex-turn 180 turn right.bvh
+Trex,T-Rex-turn  left,T-Rex-turn 90 left.bvh
+Trex,T-Rex-turn  right,T-Rex-turn 90 right.bvh
+Trex,T-Rex-walk back,T-Rex-walk back.bvh
+Trex,T-Rex-walk bite,T-Rex-walk bite.bvh
+Trex,T-Rex-walk head low,T-Rex-walk head low.bvh
+Trex,T-Rex-walk left bite,T-Rex-walk left bite.bvh
+Trex,T-Rex-walk loop,T-Rex-walk loop.bvh
+Trex,T-Rex-walk right bite,T-Rex-walk right bite.bvh
+Trex,T-Rex-walk slow loop,T-Rex-walk slow loop.bvh
+Trex,T-Rex,T-Rex.bvh
+Tricera,Tricera-Attack,Tricera-Attack.bvh
+Tricera,Tricera-Attack,Tricera-Attack2.bvh
+Tricera,Tricera-Attack,Tricera-Attack3.bvh
+Tricera,Tricera-Attack,Tricera-Attack4.bvh
+Tricera,Tricera-Idle,Tricera-Idle.bvh
+Tricera,Tricera-NoseDirt,Tricera-NoseDirt.bvh
+Tricera,Tricera-Run,Tricera-Run.bvh
+Tricera,Tricera-Walk,Tricera-Walk.bvh
+Tukan,TUKANALL-Fly,TUKANALL-Fly.bvh
+Tukan,TUKANALL-FlyForward,TUKANALL-FlyForward.bvh
+Tukan,TUKANALL-FlyLoop,TUKANALL-FlyLoop.bvh
+Tukan,TUKANALL-IdleLook,TUKANALL-IdleLook.bvh
+Tukan,TUKANALL-Shake,TUKANALL-Shake.bvh
+Tukan,TUKANALL-SlowDown,TUKANALL-SlowDown.bvh
+Tukan,TUKANALL-Sqwak,TUKANALL-Sqwak.bvh
+Tukan,TUKANALL-WingScratch,TUKANALL-WingScratch.bvh
+Turtle,Turtle-Attack,Turtle-Attack.bvh
+Turtle,Turtle-Attack,Turtle-Attack2.bvh
+Turtle,Turtle-Attack,Turtle-Attack3.bvh
+Turtle,Turtle-Hide,Turtle-Hide.bvh
+Turtle,Turtle-Idle,Turtle-Idle.bvh
+Turtle,Turtle-Idle,Turtle-Idle2.bvh
+Turtle,Turtle-Onback,Turtle-Onback.bvh
+Turtle,Turtle-Run,Turtle-Run.bvh
+Turtle,Turtle-Walk,Turtle-Walk.bvh
+Turtle,Turtle-Yawn,Turtle-Yawn.bvh
+Tyranno,Tyranno-Attack,Tyranno-Attack.bvh
+Tyranno,Tyranno-Attack,Tyranno-Attack2.bvh
+Tyranno,Tyranno-HeadButt,Tyranno-HeadButt.bvh
+Tyranno,Tyranno-Idle,Tyranno-Idle.bvh
+Tyranno,Tyranno-Idle,Tyranno-Idle2.bvh
+Tyranno,Tyranno-Roar,Tyranno-Roar.bvh
+Tyranno,Tyranno-Run,Tyranno-Run.bvh
+Tyranno,Tyranno-TailWhip,Tyranno-TailWhip.bvh
+Tyranno,Tyranno-Walk,Tyranno-Walk.bvh
